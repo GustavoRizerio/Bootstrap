@@ -1,4 +1,4 @@
-# CSS
+# Bootstrap
 curso de bootstrap da Alura. 
 
 <div align="center">
